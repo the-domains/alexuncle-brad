@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.07308984524570405
 color:
-  saturation: 0.6958594834432006
+  saturation: 0.5071685
   brandStrength: 0.8513571871444583
-  rhythmicContrast: 0.344623239710927
+  lightness: 0.2437276
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  lightness: 0.8403616917785257
+  rhythmicContrast: 0.6630824
+typography_spectrum: 0.07308984524570405
 layout_spectrum: 0.5143369
 name: alex&uncle brad
